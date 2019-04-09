@@ -5,6 +5,7 @@
     include('modules/header.php')
  ?>
 <main class="main">
+    <div>Hello World</div>
     <div class="wrapper">
         <div class="main__header">
             <h1>Новые поступления весны</h1>
