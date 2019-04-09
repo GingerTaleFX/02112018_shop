@@ -1,0 +1,74 @@
+.block-position:nth-child(1) > .catalog__subblock:nth-child(1) p,
+.block-position:nth-child(4) > .catalog__subblock:nth-child(2) p {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 40%;
+}
+
+.block-position:nth-child(1) > .catalog__subblock:nth-child(1) {
+    background: url(../images/1.jpg) center center/cover;
+}
+
+.block-position:nth-child(1) > .catalog__subblock:nth-child(2) {
+    background: url(../images/5.jpg) center center/cover;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(1),
+.block-position:nth-child(3) > .catalog__subblock:nth-child(2) {
+    background-color: #bbbbbb;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(1) p,
+.block-position:nth-child(3) > .catalog__subblock:nth-child(2) p {
+    text-align: center;
+    font-size: 14px;
+    padding: 0 40px;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(2)
+ {
+    background: url(../images/2.jpg) center center/cover;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(2) p,
+.block-position:nth-child(3) > .catalog__subblock:nth-child(3) p {
+    text-transform: uppercase;
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 30%;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(2) span,
+.block-position:nth-child(3) > .catalog__subblock:nth-child(3) span {
+    text-transform: none;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(3),
+.block-position:nth-child(4) > .catalog__subblock:nth-child(1) {
+    background-color: #606060;
+}
+
+.block-position:nth-child(2) > .catalog__subblock:nth-child(3) p,
+.block-position:nth-child(4) > .catalog__subblock:nth-child(1) p {
+    text-transform: uppercase;
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 30%;
+}
+
+.block-position:nth-child(3) > .catalog__subblock:nth-child(1) {
+    background: url(../images/3.jpg) center center/cover;
+}
+
+.block-position:nth-child(3) > .catalog__subblock:nth-child(3) {
+    background: url(../images/runing.jpg) center center/cover;
+}
+
+.block-position:nth-child(4) > .catalog__subblock:nth-child(2) {
+    background: url(../images/4.jpg) center center/cover;
+}

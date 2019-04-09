@@ -1,0 +1,35 @@
+.social_icons {
+    display: flex;
+}
+
+.social_icons li {
+ padding: 10px;
+ margin-right: 10px; 
+ border: 1px solid #606060;
+ cursor: pointer;
+}
+
+.social_icons li:nth-child(2) {
+    padding: 10px 15px;
+}
+
+.twitter {
+    height: 13px;
+    width: 16px;
+    background: url(../images/icons/twitter.png) center center/cover;
+
+}
+
+.facebook {
+    height: 15px;
+    width: 8px;
+    background: url(../images/icons/facebook.png) center center/cover;
+  
+}
+
+.instagram {
+    height: 15px;
+    width: 16px;
+    background: url(../images/icons/instagram.png) center center/cover;
+  
+}

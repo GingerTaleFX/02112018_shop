@@ -1,0 +1,10 @@
+.rectangle {
+    text-align: center;
+    text-transform: uppercase;
+    min-width: 295px;
+    height: 590px;
+}
+
+.square {
+    height: 295px;
+}

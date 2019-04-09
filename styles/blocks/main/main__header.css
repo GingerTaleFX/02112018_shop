@@ -1,0 +1,31 @@
+.main__header {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.main__header h1 {
+    text-transform: uppercase;
+    color: #303030;
+    font-size: 72px;
+    font-weight: 300;
+}
+
+.main__header p {
+    font-size: 24px;
+    font-style: italic;
+    color: #606060;
+    padding-bottom: 70px;
+}
+
+.main__header a {
+    text-decoration: none;
+    color: #303030;
+    border: 1px solid #959595;
+    padding: 25px 40px;
+    transition: all 0.4s;
+}
+
+.main__header a:hover {
+    background-color: #959595;
+    color: white;
+}

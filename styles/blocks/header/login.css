@@ -1,0 +1,11 @@
+.login {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.login__pic {
+    width: 30px;
+    height: 20px;
+    background: url('/images/icons/account.png') center center/cover;
+}

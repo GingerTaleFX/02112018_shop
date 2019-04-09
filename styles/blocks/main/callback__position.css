@@ -1,0 +1,40 @@
+.callback__position {
+    text-align: center;
+}
+
+.callback__position h2 {
+    margin: 0 0 14px;
+    font-size: 36px;
+    color: #606060;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.callback__position p {
+    font-style: italic;
+    color: #606060;
+    font-size: 18px;
+    margin: 0 0 54px;
+}
+.callback__position form {
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.callback__position form input {
+    box-sizing: border-box;
+    width: calc(35% - 10px);
+    height: 56px;
+    padding: 0 10px 0;
+}
+
+.callback__position form button {
+    box-sizing: border-box;
+    padding: 18px 30px;
+    background-color: orange;
+    color: white;
+    border: 0;
+}

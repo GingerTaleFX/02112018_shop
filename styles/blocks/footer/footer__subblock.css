@@ -1,0 +1,32 @@
+.footer__subblock {
+    text-align: left;
+    min-width: 20%;
+}
+.footer__subblock h3 {
+    color: #303030;
+    font-size: 14px;
+    text-transform: uppercase;
+    /* font-weight: 300; */
+}
+
+.footer__subblock ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer__subblock a {
+    text-decoration: none;
+    color: #303030;
+    font-size: 12px;
+    transition: all 0.4s;
+}
+
+.footer__subblock a:hover {
+    color: orange;
+}
+
+
+.footer__subblock p {
+    color: #303030;
+    font-size: 12px;
+}
